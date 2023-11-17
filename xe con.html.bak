@@ -1,0 +1,357 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>xe con  </title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="index.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<script>
+	   function themvaogiohang(x) {
+	      var boxsp = x.parentElement.children;
+	      alert(boxsp[0].children[0].src);
+		  }
+	</script>
+</head>
+<body>
+
+    <section id="Home">
+        <nav>
+            <div class="logo">
+                <img src="1.JPG">
+            </div>
+
+            <ul>
+                <li><a href="file:///E:/baitapdoan2/m%E1%BB%9Bi%201.html">Trang Chủ</a></li>
+                <li><a href="#Menu ">Giới Thiệu </a></li>
+                <li><a href="file:///E:/baitapdoan2/xe%20ga.html">Xe Ga </a></li>
+                <li><a href="file:///E:/baitapdoan2/xe%20so.html">Xe Số  </a></li>
+                <li><a href="file:///E:/baitapdoan2/xe%20con.html#Home">Xe Côn  </a></li>
+                <li><a href="#Order ">Đặt hàng </a></li>
+                <li><a href="#Riview ">Liên hệ</a></li>
+            </ul>
+
+            <div class="icon">
+			<div class="tìm kiếm">
+            </div>
+
+        </nav>
+    </section>
+
+    <!--Thực Đơn-->
+
+    <div class="menu" id="Menu">
+        <h1>MẪU XE TAY CÔN BÊN CHÚNG TÔI </h1>
+
+        <div class="menu_box">
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="VISION.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>honda VISION (2023) </h2>
+                    <p>
+                       hãng HONDA 
+                    </p>
+                    <h3>$20.00</h3>
+                    <div class="menu_icon">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star-half-stroke"></i>
+                    </div>
+                    <a href="#" class="menu_btn">Đặt Ngay</a>
+                </div>
+
+            </div> 
+            
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="5.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Wave alpha (2021) </h2>
+                    <p>
+                        hãng HONDA 
+                    </p>
+                    <h3>$700 </h3>
+                    
+                    <a href="#" class="menu_btn">Đặt Ngay</a>
+                </div>
+
+            </div> 
+
+            <div class="menu_card">
+<div class="menu_image">
+                    <img src="6.JPG ">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>honda RSX (2021)</h2>
+                    <p>
+                       hãng HONDA 
+                    </p>
+                    <h3>$660</h3>
+                    
+                    <a href="#" class="menu_btn">Đặt Ngay</a>
+                </div>
+
+            </div> 
+
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="7.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>SH more (2021)</h2>
+                    <p>
+                        hãng HONDA 
+                    </p>
+                    <h3>$20.00</h3>
+                    <a href="#" class="menu_btn">Đặt Ngay</a>
+                </div>
+
+            </div> 
+
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="8.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Air Blade 160 (2023)</h2>
+                    <p>
+                        hãng HONDA 
+                    </p>
+                    <h3>$2500 </h3>
+                    <a href="#" class="menu_btn">Đặt ngay</a>
+</div>
+
+            </div> 
+
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="9.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>exciter 150 (2021) </h2>
+                    <p>
+                      hãng HONDA 
+                    </p>
+                    <h3>$800</h3>
+                    <a href="#" class="menu_btn">Đặt ngay</a>
+                </div>
+
+            </div> 
+
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="10.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>exciter 155 (2022)</h2>
+                    <p>
+                       Hãng HONDA 
+                    </p>
+                    <h3>$900</h3>
+                    <a href="#" class="menu_btn">Đặt ngay</a>
+                </div>
+						
+                    </div> 
+
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="11.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>yamaha SIRIUS (2021)</h2>
+                    <p>
+                        HÃNG YAMAHA 
+                    </p>
+                    <h3>$650</h3>
+                    <a href="#" class="menu_btn">Đặt ngay</a>
+                </div>						
+                    </div>
+<div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="11.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>yamaha SIRIUS (2021)</h2>
+                    <p>
+                        HÃNG YAMAHA 
+                    </p>
+                    <h3>$650</h3>
+                  
+                    <a href="#" class="menu_btn">Đặt ngay</a>
+                </div>						
+                    </div> 
+	<div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="11.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>yamaha SIRIUS (2021)</h2>
+                    <p>
+                        HÃNG YAMAHA 
+                    </p>
+                    <h3>$650</h3>
+                   
+                    <a href="#" class="menu_btn">Đặt ngay</a>
+                </div>						
+                    </div> 
+				<div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="11.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>yamaha SIRIUS (2021)</h2>
+                    <p>
+                        HÃNG YAMAHA 
+                    </p>
+                    <h3>$650</h3>
+                
+                    <a href="#" class="menu_btn">Đặt ngay</a>
+                </div>						
+                    </div> 
+<div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="11.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>yamaha SIRIUS (2021)</h2>
+                    <p>
+                        HÃNG YAMAHA 
+                    </p>
+                    <h3>$650</h3>
+                 
+                    <a href="#" class="menu_btn">Đặt ngay</a>
+                </div>						
+                    </div> 
+
+
+                </div> 
+         
+            </div> 
+
+            </div> 
+
+            </div>           
+        </div>
+    </div>
+
+    <!--Footer-->
+
+    <footer>
+        <div class="footer_main">
+
+            <div class="footer_tag">
+                <h2>Vị trí</h2>
+                <p>Số nhà 130A Đức Minh - TP Hải Dương </p>
+                <p>42 ô chợ dừa -Đống Đa- Hà Nội </p>            
+            </div>
+
+            <div class="footer_tag">
+                <h2>Liên kết nhanh</h2>
+                <p>Trang Chủ</p>
+<p>Về chúng tôi</p>
+                <p>mẫu xe </p>
+                <p>hãng xe </p>
+                <p>đặt hàng </p>
+            </div>
+
+            <div class="footer_tag">
+                <h2>Liên Hệ</h2>
+                <p>0867764987 </p>
+                <p>+84379689999</p>
+                <p>thanhgabbana34@gmail.com</p>
+            </div>
+
+            <div class="footer_tag">
+                <h2>Dịch Vụ Của Chúng Tôi</h2>
+                <p>Chuyển phát nhanh</p>
+                <p>Thanh toán dễ dàng</p>
+                <p>Giao hàng tận nơi 24/7</p>
+            </div>
+
+        </div>
+
+
+    </footer>
+
+
+
+    
+</body>
+</html>
